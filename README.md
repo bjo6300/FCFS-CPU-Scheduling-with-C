@@ -63,6 +63,8 @@ ProcessID Priority Computing_Time Turn_around_time
     8         3         40            260
     9        13         60            320
    10        24         45            345
+   
+ Normalized turn around time : 6.356667
 ~~~
 * ProcessID
  
