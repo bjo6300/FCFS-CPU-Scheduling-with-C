@@ -1,6 +1,6 @@
 # CPU Scheduling Algorithm FCFS
 
-FCFS(First Come First Served) 설계 및 구현 (C언어)
+** FCFS(First Come First Served) 설계 및 구현 (C언어)
 
 * FIFO (First In First Out)와 같은 의미 
 * 가장 오래 기다린 프로세스가 다음으로 실행
