@@ -86,5 +86,8 @@ ProcessID Priority Computing_Time Turn_around_time
 
   * (종료시간 - 도착시간) / computing time
 
+---
+## License
 
+Distributed under the APACHE 2.0 License. See `LICENSE` for more information.
 
